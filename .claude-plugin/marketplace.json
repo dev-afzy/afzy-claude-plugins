@@ -39,6 +39,12 @@
       "source": "./plugins/pr-review",
       "description": "Thorough PR code reviews covering correctness, readability, architecture, testing, performance, and security.",
       "version": "1.0.0"
+    },
+    {
+      "name": "git-stacked-prs",
+      "source": "./plugins/git-stacked-prs",
+      "description": "Split uncommitted or working-branch changes into stacked git branches for easier PR review.",
+      "version": "1.0.0"
     }
   ]
 }
