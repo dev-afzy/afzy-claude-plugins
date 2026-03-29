@@ -1,0 +1,8 @@
+{
+  "name": "backend-review",
+  "description": "Reviews backend code for security vulnerabilities and compliance issues (OWASP Top 10, injection, auth, PII, secrets).",
+  "version": "1.0.0",
+  "author": {
+    "name": "afeesudheenp"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "afeesudheenp-skills",
+  "owner": {
+    "name": "afeesudheenp"
+  },
+  "plugins": [
+    {
+      "name": "backend-review",
+      "source": "./plugins/backend-review",
+      "description": "Reviews backend code for security vulnerabilities and compliance issues (OWASP Top 10, injection, auth, PII, secrets).",
+      "version": "1.0.0"
+    },
+    {
+      "name": "debugging",
+      "source": "./plugins/debugging",
+      "description": "Structured debugging and troubleshooting skill — observe, hypothesize, isolate, fix, verify.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "docx",
+      "source": "./plugins/docx",
+      "description": "Create, read, edit, and manipulate Word documents (.docx) using docx-js and OOXML.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "memory",
+      "source": "./plugins/memory",
+      "description": "Consolidates and organizes memory files at end of session.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "pr-description",
+      "source": "./plugins/pr-description",
+      "description": "Generates clear, structured GitHub Pull Request descriptions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "pr-review",
+      "source": "./plugins/pr-review",
+      "description": "Thorough PR code reviews covering correctness, readability, architecture, testing, performance, and security.",
+      "version": "1.0.0"
+    }
+  ]
+}

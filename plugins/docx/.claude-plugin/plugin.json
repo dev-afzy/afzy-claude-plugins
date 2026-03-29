@@ -1,0 +1,8 @@
+{
+  "name": "docx",
+  "description": "Create, read, edit, and manipulate Word documents (.docx) using docx-js and OOXML.",
+  "version": "1.0.0",
+  "author": {
+    "name": "afeesudheenp"
+  }
+}

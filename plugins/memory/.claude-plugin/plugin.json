@@ -1,0 +1,8 @@
+{
+  "name": "memory",
+  "description": "Consolidates and organizes memory files at end of session — merges, deduplicates, and keeps MEMORY.md concise.",
+  "version": "1.0.0",
+  "author": {
+    "name": "afeesudheenp"
+  }
+}
