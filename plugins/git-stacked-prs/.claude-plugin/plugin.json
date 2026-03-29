@@ -1,0 +1,8 @@
+{
+  "name": "git-stacked-prs",
+  "description": "Split uncommitted or working-branch changes into stacked git branches for easier PR review.",
+  "version": "1.0.0",
+  "author": {
+    "name": "afeesudheenp"
+  }
+}
